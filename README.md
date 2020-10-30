@@ -1,2 +1,2 @@
 # GA
-Solving the maximum value of a function by genetic algorithm
+使用python使用遗传算法解决一个二元函数求最大值的问题
