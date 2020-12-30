@@ -1,2 +1,2 @@
-# GA
-Solving the maximum value of a function by genetic algorithm
+# SA
+Solving the maximum value of a function by Simulated Annealing
